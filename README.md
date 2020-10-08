@@ -8,4 +8,4 @@ If the wrong two cards are selected, then the cards then return to their origina
 **Match all cards to win the game and the Iron Throne!**
 
 ## The starting state of the game:
-![Starting](/Unturned.jpg)
+![Starting](/Memory_game_docs/Unturned.jpg)
