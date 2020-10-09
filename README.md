@@ -15,3 +15,5 @@ If the wrong two cards are selected, then the cards then return to their origina
 
 ## All matches are made:
 ![Won](/Memory%20game%20docs/CompletedGame.JPG)
+
+All images and assets used are property of HBO and/or George R.R. Martin
