@@ -9,3 +9,9 @@ If the wrong two cards are selected, then the cards then return to their origina
 
 ## The starting state of the game:
 ![Starting](/Memory%20game%20docs/Unturned.JPG)
+
+## Once a match is made:
+![Matched](/Memory%20game%20docs/Matched.JPG)
+
+## All matches are made:
+![Won](/Memory%20game%20docs/CompletedGame.JPG)
